@@ -2,7 +2,7 @@ import subprocess
 import re
 import os
 
-app_name = "wxapp.exe"
+app_name = "merger.exe"
 
 def get_msys2_dlls(executable):
     # 执行 ldd 命令
